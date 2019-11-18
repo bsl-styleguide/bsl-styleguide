@@ -1,0 +1,10 @@
+*~
+\#*
+.\#*
+.DS_Store
+compiled/
+/doc/
+scribblings/*.js
+scribblings/*.html
+scribblings/*.css
+_*_.rkt
